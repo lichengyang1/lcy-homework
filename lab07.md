@@ -10,7 +10,8 @@
 
 [任务1](#jump) 
 
-[任务2](#jump) 
+
+[任务2](#jump1) 
 
 
 
@@ -24,7 +25,7 @@
 <br><br><br>
 
 
-## <span id="jump">任务1</span>
+## <span id="jump"></span>
 ## 任务1 简单程序
 
 
@@ -55,7 +56,7 @@ int z = x + w;
 
 <br><br><br>
 
-## <span id="jump">任务2</span>
+## <span id="jump1"></span>
 ## 任务2 简单循环
 
 1.
