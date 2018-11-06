@@ -3,14 +3,15 @@
 
 ## 学号18342044
 ## 姓名 李承阳
-<br><br>
-*** 
+<br><br>  
+ *** 
 <br><br>
 # Content
 
-## <span id="jump">任务1</span>
+[任务1](#jump) 
 
-## <span id="jump">任务2</span>
+[任务2](#jump) 
+
 
 
 <br><br><br><br>
@@ -23,7 +24,7 @@
 <br><br><br>
 
 
-[任务1](#jump) 
+## <span id="jump">任务1</span>
 ## 任务1 简单程序
 
 
@@ -54,7 +55,7 @@ int z = x + w;
 
 <br><br><br>
 
-[任务2](#jump)
+## <span id="jump">任务2</span>
 ## 任务2 简单循环
 
 1.
